@@ -20,11 +20,16 @@ CEO Magical code Full Stack Developer from Syria.
 - JQuery
 - Bootstrap4(v5 Alpha)
 - VueTify
+- Antı Desıgn
 - PWA
 - SEO Princeplce
 
+# Mobıle APPs Tech
+- Fluter
+
 # Frameworks
 - Vue js
+- Nuxt js
 - Laravel
 - React
 
