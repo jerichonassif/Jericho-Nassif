@@ -26,7 +26,7 @@ CEO Magical code Full Stack Developer from Syria.
 # Frameworks
 - Vue js
 - Laravel
-- Angular(Knowledge)
+- React
 
 # Bundling Tools
 - Gulp
