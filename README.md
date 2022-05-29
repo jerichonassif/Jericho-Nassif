@@ -1,7 +1,7 @@
 ### Hello 👋🏻 I'm Mhd Aiman Naser Eddin  
 
 
-Hi, I'm Mhd Aiman Naser Eddin ,CEO Magical code Full Stack Developer from Syria.
+CEO Magical code Full Stack Developer from Syria.
 
 - 🐳 VueJs Dev , 
 - 🐳 Laravel Dev , 
