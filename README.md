@@ -32,9 +32,17 @@ CEO Magical code Full Stack Developer from Syria.
 - Gulp
 - Webpack
 
-# Source Control
+# DevOps Tools
+- Slack
+- Jenkins
+- Docker
+- Phantom
+- Nagios
+- Vagrant
+- Ansible
 - GitHub
-- TFS
+- Sentry
+- BitBucket
 
 # Platforms
 - Windows 1995, xp , vista ,7 ,8 , 10 , 11
