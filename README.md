@@ -7,7 +7,7 @@ CEO Magical code Full Stack Developer from Syria.
 - 🐳 Laravel Dev , 
 - 🐱‍🏍 UI ve UX Design & Dev (Adobe xd , Adobe photoshop , HTML5, SASS, JS) ,
 - 💻 Self-taught Programmer.
-- 📫 You can reach me on : mhdaimannasereddin@proton.com
+- 📫 You can reach me on : mhdaimannasereddin@proton.me
 
 
 ### 👨🏻‍💻 Language and tools: 
